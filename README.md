@@ -1,6 +1,6 @@
 Dear user,
 
-This repository contains a MATLAB script that generates graphical results from a case study in the SDDP showing that new transmission facilities in Brazil, which will contribute to the connection of +900 MW of renewable generation, also have a direct impact on reducing emissions.
+This repository contains a MATLAB script that generates graphical results from a case study in the SDDP showing that new transmission facilities in Brazil, which will contribute to the connection of +900 MW of renewable generation, also have a direct impact on reducing emissions. The research paper, which contains these results, is titled "A Future-Looking Methodology for Estimating CO2 Emissions Reductions Linked to Transmission Projects That Increase Renewable Generation Capacity" and features in the IEEE Latin America Transactions (Submission ID: 10236).
 
 To generate the results, please run it in your MATLAB (or Octave) command window.
 
