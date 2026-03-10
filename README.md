@@ -10,7 +10,9 @@ Jorge Mauricio Areiza Ortiz, INTERCONEXIÓN ELÉCTRICA S.A. (ISA), Colombia; and
 
 Giovanni Manassero Junior (Senior Member, IEEE), Universidade de São Paulo, Brazil.
 
-Journal: IEEE Latin America Transactions (Submission ID: 10236).
+Journal: 
+
+IEEE Latin America Transactions (Submission ID: 10236).
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
