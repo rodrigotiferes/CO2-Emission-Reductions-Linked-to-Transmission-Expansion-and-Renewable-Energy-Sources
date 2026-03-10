@@ -1,7 +1,9 @@
-Paper title: "A Future-Looking Methodology for Estimating CO2 Emissions Reductions Linked to Transmission Projects That Increase Renewable Generation Capacity"
+Paper title: "A Future-Looking Methodology for Estimating CO2 Emissions Reductions Linked to Transmission Projects That Increase Renewable Generation Capacity".
 
-Authors: Rodrigo Rozenblit Tiferes (Member, IEEE), Universidade de São Paulo, Brazil; 
+Authors: Rodrigo Rozenblit Tiferes (Member, IEEE), Universidade de São Paulo, Brazil;
+
 Jorge Mauricio Areiza Ortiz, INTERCONEXIÓN ELÉCTRICA S.A. (ISA), Colombia; and 
+
 Giovanni Manassero Junior (Senior Member, IEEE), Universidade de São Paulo, Brazil.
 
 Journal: IEEE Latin America Transactions (Submission ID: 10236).
